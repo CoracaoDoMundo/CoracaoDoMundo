@@ -42,9 +42,9 @@ Thanks for visiting my profile. Live long and prosper! 🖖
 
 ### Contact me:
 
- <a href="https://www.linkedin.com/in/anastasia-klimova--/" target="_blank">
-   <img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" width="40" height="40" alt="linkedin logo" />
- </a>&nbsp;
-  <a href="https://t.me/C0RACA0" target="_blank">
-   <img src="https://www.svgrepo.com/show/452115/telegram.svg" width="40" height="40" alt="telegram logo" />
- </a>
+<a href="https://www.linkedin.com/in/anna-lazakovich-098a9777/" target="_blank">
+   <img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" width="40" height="40" alt="linkedin" />
+</a>&nbsp;
+<a href="https://t.me/C0RACA0" target="_blank">
+   <img src="https://www.svgrepo.com/show/452115/telegram.svg" width="40" height="40" alt="telegram" />
+</a>
