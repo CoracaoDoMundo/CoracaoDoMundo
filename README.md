@@ -31,7 +31,7 @@ Thanks for visiting my profile. Live long and prosper! 🖖
 <div>
   <img src="https://www.svgrepo.com/show/374171/vscode.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/448222/figma.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/512317/github-142.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/439171/github.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/353709/eslint.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354463/trello.svg" title="trello" alt="trello" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
@@ -42,9 +42,9 @@ Thanks for visiting my profile. Live long and prosper! 🖖
 
 ### Contact me:
 
-<a href="https://www.linkedin.com/in/anna-lazakovich-098a9777/" target="_blank">
-   <img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" width="40" height="40" alt="linkedin" />
-</a>&nbsp;
 <a href="https://t.me/C0RACA0" target="_blank">
    <img src="https://www.svgrepo.com/show/452115/telegram.svg" width="40" height="40" alt="telegram" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/anna-lazakovich-098a9777/" target="_blank">
+   <img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" width="40" height="40" alt="linkedin" />
 </a>
